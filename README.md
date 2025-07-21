@@ -24,8 +24,6 @@ A modern, responsive dashboard built with **React**, **React Router**, and **Tan
 
 👉 **Deploy Link**: [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
 
-> _Replace with your actual Netlify URL_
-
 ---
 
 ## 🛠️ Tech Stack
