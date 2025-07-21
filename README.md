@@ -41,8 +41,6 @@ A modern, responsive dashboard built with **React**, **React Router**, and **Tan
 
 ---
 
-## 📋 Installation & Setup
-
 ### ✅ Prerequisites
 
 - Node.js (v16+ recommended)
