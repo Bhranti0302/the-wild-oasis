@@ -48,35 +48,42 @@ A modern, responsive dashboard built with **React**, **React Router**, and **Tan
 
 ### 🔧 Steps
 
-1. **Clone the repository:**
+1.  **Clone the repository:**
 
-```bash
-git clone https://github.com/YOUR_USERNAME/the-wild-oasis.git
-cd the-wild-oasis
+    ```bash
+    git clone [https://github.com/YOUR_USERNAME/the-wild-oasis.git](https://github.com/YOUR_USERNAME/the-wild-oasis.git)
+    cd the-wild-oasis
+    ```
 
-```
+---
 
-🧠 Usage Tips
-Login via /login route.
+## 🧠 Usage Tips
 
-Use the sidebar to navigate between views.
+- **Login**: Access the dashboard via the `/login` route.
+- **Navigation**: Use the sidebar to navigate between different views.
+- **Modals**: Use the `ESC` key to close modals (if implemented).
+- **Theme**: Toggle between light and dark themes from the top-right corner.
 
-Use ESC key to close modals (if implemented).
+---
 
-Toggle light/dark theme from the top-right.
+## 🔐 Authentication
 
-🔐 Authentication
-All routes except /login are protected using the ProtectedRoute wrapper component.
+All routes in the application, except for `/login`, are protected using the `ProtectedRoute` wrapper component to ensure secure access.
 
-🧪 React Query Devtools
-The app includes React Query Devtools (disabled by default). You can open them manually from your browser's devtools panel for debugging.
+---
 
-🙏 Credits
-Built as part of a professional React learning project.
+## 🧪 React Query Devtools
 
-Inspired by real-world SaaS dashboards.
+The app includes **React Query Devtools** for debugging, which are disabled by default. You can open them manually from your browser's devtools panel.
 
-UI and UX customized using Styled Components and responsive design.
+---
 
-📄 License
-MIT License – Feel free to use, modify, and distribute.
+## 🙏 Credits
+
+Built as part of a professional React learning project. The UI and UX are inspired by real-world SaaS dashboards and customized using **Styled Components** with a focus on responsive design.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute.
