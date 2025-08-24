@@ -22,7 +22,7 @@ A modern, responsive dashboard built with **React**, **React Router**, and **Tan
 
 ## 🚀 Live Preview
 
-👉 **Deploy Link**: ([https://your-netlify-link.netlify.app](https://the-wild-oasis-e4q6qo79l-bhranti0302s-projects.vercel.app))
+👉 **Deploy Link**: ([https://the-wild-oasis-76hglzvd4-bhranti0302s-projects.vercel.app/dashboard])
 
 ---
 
